@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Сайт про котиков</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Всеми любимые питомцы</h1>
+  <p>По разным оценкам, в мире насчитывается от 40 до 70 пород домашних кошек. Однако точное количество пород определить сложно, поскольку различные организации по регистрации кошек признают разное количество пород.<br><br>
+        
+    
+    <div class="row justify-content-between">
+      <div class="col">
+        <img src="котик5.jpg" class="rounded" alt="котик 1" style="width: 150px; height: 200px;">
+      </div>
+      <div class="col">
+        <img src="котик4.jpg" class="rounded-circle" alt="котик 2" style="width: 150px; height: 200px;">
+      </div>
+      <div class="col">
+        <img src="котик6.jpg" class="img-thumbnail" alt="котик 3" style="width: 200px; height: 200px; border-color: black; border-width: 2px; ">
+      </div>
+    </div>
+       
+    
+Кошки, эти очаровательные создания, играют незаменимую роль в нашей жизни:<br><br>
+
+1.Кошки обеспечивают нежную и успокаивающую компанию, мурлыча, ласкаясь и создавая теплую атмосферу.<br>
+
+2.Кошки обладают природным любопытством, исследуя свое окружение и развлекая своих хозяев своими забавными движениями.<br>
+
+3.Кошки обожают играть, предоставляя своим владельцам возможность развлечься и снять стресс. Их шаловливые выходки и ловкие прыжки не только умиляют, но и заряжают энергией.<br>
+
+4.Доказано, что взаимодействие с кошками имеет терапевтический эффект, снижая уровень стресса, тревожности и даже физическую боль.<br>
+
+5.Кошки содержат себя в чистоте, регулярно ухаживая за своей шерстью, что помогает поддерживать здоровый образ жизни. </p>
+
+  <button type="button" class="btn btn-primary">Дополнительные сведения</button><br> 
+</div>
+</body>
+</html>
